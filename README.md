@@ -1,2 +1,0 @@
-# RocketSimulator
-Simulate Rocket
